@@ -33,19 +33,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Canvas](https://img.shields.io/badge/-Canvas-FF6D00?style=flat&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
 
 
 ## 🛠️ Tools
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=CFEAFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFD6C2)
 
 # 💻Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-181717?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=CFE8FF)
 
 ---
 
