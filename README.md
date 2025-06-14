@@ -29,7 +29,7 @@
 ## 📝 Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=DCEEFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=CFEAFF)
 ![Canvas](https://img.shields.io/badge/-Canvas-FF6D00?style=flat&logo=html5&logoColor=white)
@@ -49,7 +49,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=CFE8FF)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=D0E8FF)
 
 ---
 
