@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFD6C2)
 
-# 💻Operating Systems
+## 💻Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-181717?style=flat&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
