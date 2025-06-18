@@ -24,7 +24,6 @@
 ![Arabic](https://img.shields.io/badge/-Arabic-FF9800?style=flat&logo=googletranslate&logoColor=white)
 ![Japanese](https://img.shields.io/badge/-Japanese-FF3E30?style=flat&logo=googletranslate&logoColor=white)
 
----
 
 ## 📝 Skills
 
@@ -51,7 +50,6 @@
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=D0E8FF)
 
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF00FF,50:800080,100:FF00FF&height=120&section=footer"/>
