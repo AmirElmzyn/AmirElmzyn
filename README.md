@@ -16,7 +16,6 @@
 -  Founder & CEO of IGNITE
 -  Trained And Worked at Growthy Company
 
----
 
 ## 📚📍Languages
 
